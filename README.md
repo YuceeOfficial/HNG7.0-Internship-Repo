@@ -1,3 +1,5 @@
-# HNG7.0 Internship
+# README.txt
+
+## HNG7.0 Internship
 
 This will basically point to all the project we will be carrying out during this Internship.
